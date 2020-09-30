@@ -25,7 +25,7 @@ spring boot 2.4(2020-09-30) - MVC, DBPool, WAR기능 지원, Starter 버전(Orac
 ##### (Oracle 19g, HikariCP 3.4.2, MyBatis Starter 2.4, REST based Spring Web Service, Spring Security 5, Spring Framework 5.3 are applied)
 
 ### 2. 시연(Demonstration)
-
+##### 1. Spring-Boot 2 4(SnapShot), MySQL, Oracle 19g, JSP, REST, MVC 연동, https://youtu.be/4uQ0kSJ6Ssc, Accessed by 2020-10-01, Last Modified 2020-10-30.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-30, Last Modified .
