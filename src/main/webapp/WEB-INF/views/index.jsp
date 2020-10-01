@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Hello World</title>
+<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 	<h3>Hello World - Starter Boot</h3>
